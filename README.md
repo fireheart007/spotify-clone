@@ -14,4 +14,4 @@ A music streaming web app built using *Vanilla JS, Tailwind, and Vite JS*, utili
 the web app's components. 
 
 ● **Performance:** The web app uses *ViteJS*, a modern build tool that provides fast and efficient bundling of the code, resulting in faster load times and overall *better performance*.
-# tunewave.netlify.app
+# https://tunewave.netlify.app
