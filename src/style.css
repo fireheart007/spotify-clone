@@ -30,3 +30,8 @@
 .track.playing .song-title{
   color: theme("colors.green");
 }
+
+.progress-container:hover .bg-white
+{
+  background-color:theme("colors.green")
+}
