@@ -1,4 +1,4 @@
-# TuneWave - (A music streaming Web App)
+# TuneWave | A music streaming Web App
 A music streaming web app built using *Vanilla JS, Tailwind, and Vite JS*, utilizing the *Spotify API* for accessing various playlists which have the following features :- 
 
 ● **Authentication:** The web app provides a way for users to *log in* to their Spotify account and grant the necessary permissions to access their playlists. This would be done using the *access token* provided by the
